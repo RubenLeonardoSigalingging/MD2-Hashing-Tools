@@ -12,3 +12,16 @@
 
 # Hash-Function
 - A hash function is any function that can be used to map data of arbitrary size to a fixed size value. The value returned by the hash function is called a hash value, hash code, digest, or simply hash.
+
+
+- Dibuat Oleh: Ruben Leonardo Sigalingging.
+- Dibuat Pada : Sabtu, 11 Juni 2022, Selesai Pukul 00:09 WIB.
+- Fungsi: Untuk Mengenkripsi Pesan, Kata Sandi dan Data Menggunakan Metode Hash MD2. Dibuat Menggunakan Bahasa Pemrograman Python Versi 3.8.10
+
+
+# Apa-Itu-MD2?
+- Algoritma Message-Digest 2 (MD2) adalah fungsi hash kriptografi yang dikembangkan oleh Ronald Rivest pada tahun 1989. Algoritma ini dioptimalkan untuk komputer 8-bit. MD2 ditentukan dalam RFC 1319.
+
+
+# Fungsi-Hash
+- Fungsi hash adalah fungsi apa pun yang dapat digunakan untuk memetakan data dengan ukuran arbitrer ke nilai ukuran tetap. Nilai yang dikembalikan oleh fungsi hash disebut nilai hash, kode hash, intisari, atau sekadar hash.
